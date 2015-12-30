@@ -1,0 +1,38 @@
+///========================
+///  System
+///========================
+using		:::		//using		
+namespace	:::		//namespace
+///========================
+///	    I/O
+///========================
+Console.WriteLine	:::	System.out.println
+Console.ReadLine	:::	//Console.ReadLine
+///========================
+///	 Data Types
+///========================
+bool		:::		boolean
+Boolean		:::		boolean
+byte		:::		byte
+Byte		:::		byte
+short		:::		short
+Int16		:::		short
+int		:::		int
+Int32		:::		int
+long		:::		long
+Int64		:::		long
+char		:::		char
+Char		:::		char
+float		:::		float
+Single		:::		float
+double		:::		double
+Double		:::		double
+string		:::		String
+String		:::		String
+///========================
+///    Access Modifier
+///========================
+private		:::		private
+public		:::		public
+static		:::		static
+protected internal		:::		protected	
